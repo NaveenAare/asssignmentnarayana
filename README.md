@@ -2,5 +2,5 @@
 Used MVVm archtecture...........
 
 ## Screenshot
-|<img src="pic/pic.png" width=200/>|
+|<img src="screenshots/1.gif" width=200/>|
 |:----:|

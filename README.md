@@ -6,7 +6,7 @@ Used MVVm archtecture...........
 |:----:|
 
 ## Searching repos
-|<img src="screenshots/4.jpeg" width=200/>|  
+|<img src="screenshots/2.jpeg" width=200/>|  
 
 ## Details of repos
 |<img src="screenshots/3.jpeg" width=200/>|  

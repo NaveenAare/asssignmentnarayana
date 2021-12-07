@@ -13,5 +13,4 @@ Used MVVm archtecture...........
 
 ## Download APK from here👇
 
-<a href="https://drive.google.com/file/d/1k4Xk1IK324xc06QpazdVxH8l8WqVn44K/view?usp=sharing">Dowload here</a>
 
